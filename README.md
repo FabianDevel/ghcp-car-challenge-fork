@@ -10,7 +10,8 @@
 ### Getting Started Checklist
 
 1. ✅ Use your existing GitHub account with an active GitHub Subscription or use [Copilot Free plan](https://github.com/github-copilot/signup) (no credit card required!)
-2. ✅That's it! The challenge can be achieved on github.com. _Alternatively_ you can also:
+2. ✅To activate _Premium Models_ for a 30 days trial go to https://github.com/github-copilot/pro
+3. ✅That's it! The challenge can be achieved on github.com. _Alternatively_ you can also:
    1. ☑️ Download and install VS Code for your platform
    2. ☑️ Install additional components (Git, Node.js, language runtimes)
    3. ☑️ Enable AI features and sign in to GitHub Copilot
@@ -45,7 +46,6 @@ Follow the [Copilot Setup Guide](https://code.visualstudio.com/docs/copilot/setu
 4. Start using Copilot in VS Code!
 
 Learn more about [GitHub Copilot plans](https://docs.github.com/en/copilot/get-started/plans).
-
 
 ### Step 3: Install Additional Components
 
